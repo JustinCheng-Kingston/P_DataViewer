@@ -1,0 +1,11 @@
+{
+  "latest_version": "2.5",
+  "release_date": "2026-05-xx",
+  "download_url": "https://yourname.github.io/my-tool-update/update.zip",
+  "release_notes": [
+    "Added startup splash screen",
+    "Added update notification",
+    "Added one-click download link for new version"
+  ],
+  "mandatory": false
+}
